@@ -1,0 +1,145 @@
+{
+  "ARRIVAL": {
+    "title": "Arrival",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tFMo3UJ4B4g",
+    "year": "2016",
+    "director": "Denis Villeneuve",
+    "cast": "Amy Adams, Jeremy Renner, Forest Whitaker",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "rating": "PG-13",
+    "storyline": "A linguist is recruited by the military to communicate with alien lifeforms after twelve mysterious spacecrafts land around the world."
+  },
+
+  "PREDESTINATION": {
+    "title": "Predestination",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/4b/Predestination_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xxG-YfedrfU",
+    "year": "2014",
+    "director": "Peter Spierig, Michael Spierig",
+    "cast": "Ethan Hawke, Sarah Snook, Noah Taylor",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "rating": "R",
+    "storyline": "A temporal agent embarks on a final time-traveling assignment to prevent an elusive criminal from launching an attack that kills thousands of people."
+  },
+
+  "INTERSTELLAR": {
+    "title": "Interstellar",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=0vxOhd4qlnA",
+    "year": "2014",
+    "director": "Christopher Nolan",
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "rating": "PG-13",
+    "storyline": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+
+  "EX MACHINA": {
+    "title": "Ex Machina",
+    "poster": "http://t3.gstatic.com/images?q=tbn:ANd9GcQe8L-1PTMlUf-si2Oy6BTd9ZtbWH7BSRSF5k5JGNATxOHzyIdg",
+    "trailer": "https://www.youtube.com/watch?v=PI8XBKb6DQk",
+    "year": "2014",
+    "director": "Alex Garland",
+    "cast": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac",
+    "genre": "Drama, Mystery, Sci-Fi",
+    "rating": "R",
+    "storyline": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I."
+  },
+
+  "COHERENCE": {
+    "title": "Coherence",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Coherence_2013_theatrical_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=kxAOewNzz-8",
+    "year": "2013",
+    "director": "James Ward Byrkit",
+    "cast": " Emily Baldoni, Maury Sterling, Nicholas Brendon",
+    "genre": "Mystery, Sci-Fi, Thriller",
+    "rating": "Not Rated",
+    "storyline": "Eight friends at a dinner party experience a troubling chain of events due to the malevolent influence of a passing comet."
+  },
+
+  "SHUTTER ISLAND": {
+    "title": "Shutter Island",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YDGldPitxic",
+    "year": "2010",
+    "director": "Martin Scorsese",
+    "cast": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+    "genre": "Mystery, Thriller",
+    "rating": "R",
+    "storyline": "The implausible escape of a brilliant murderess brings a U.S. Marshal and his new partner to Ashecliffe Hospital, a fortress-like insane asylum located on a remote, windswept island."
+  },
+
+  "INCEPTION": {
+    "title": "Inception",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "year": "2010",
+    "director": "Cristopher Nolan",
+    "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
+    "genre": "Action, Adventure, Sci-Fi",
+    "rating": "PG-13",
+    "storyline": "A thief, who steals corporate secrets through the use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO."
+  },
+
+  "TRIANGLE": {
+    "title": "Triangle",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Triangle_%28Christopher_Smith%29.jpg",
+    "trailer": "https://www.youtube.com/watch?v=17XqBdCiHOI",
+    "year": "2009",
+    "director": "Christopher Smith",
+    "cast": "Melissa George, Joshua McIvor, Jack Taylor",
+    "genre": "Fantasy, Mystery, Thriller",
+    "rating": "R",
+    "storyline": "A group of friends suffer a yachting accident and take refuge on a cruise drifting on the open sea, but quickly realize they were better off on the upturned yacht."
+  },
+
+   "A BEAUTIFUL MIND": {
+    "title": "A Beautiful Mind",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/A_Beautiful_Mind_Poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=WFJgUm7iOKw",
+    "year": "2001",
+    "director": "Ron Howard",
+    "cast": "Russell Crowe, Ed Harris, Jennifer Connelly",
+    "genre": "Biography, Drama",
+    "rating": "PG-13",
+    "storyline": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+  },
+
+   "FIGHT CLUB": {
+    "title": "Fight Club",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=BdJKm16Co6M",
+    "year": "1999",
+    "director": "David Fincher",
+    "cast": "Brad Pitt, Edward Norton, Meat Loaf",
+    "genre": "Drama",
+    "rating": "R",
+    "storyline": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club that evolves into something much, much more."
+  },
+
+  "THE SHAWSHANK REDEMPTION": {
+    "title": "The Shawshank Redemption",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=NmzuHjWmXOc",
+    "year": "1994",
+    "director": "Frank Darabont",
+    "cast": "Tim Robbins, Morgan Freeman, Bob Gunton",
+    "genre": "Crime, Drama",
+    "rating": "R",
+    "storyline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+  },
+
+  "FORREST GUMP": {
+    "title": "Forrest Gump",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "year": "1994",
+    "director": "Robert Zemeckis",
+    "cast": "Tom Hanks, Robin Wright, Gary Sinise",
+    "genre": " Drama, Romance",
+    "rating": "PG-13",
+    "storyline": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75."
+  }
+}

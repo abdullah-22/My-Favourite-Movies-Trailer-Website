@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Python\\python.exe",
+    "files.autoSave": "onFocusChange",    
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": false,
+}
