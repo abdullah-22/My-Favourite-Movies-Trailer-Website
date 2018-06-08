@@ -33,7 +33,7 @@ My-Favourite-Movies-Trailer-Website
 |---
 ├── .gitattributes  //ignore both of these git files
 ├── .gitignore
-├── entertainment_center.py
+├── entertainment_centre.py
 ├── fresh_tomatoes.html
 ├── fresh_tomatoes.py
 ├── media.py
@@ -41,7 +41,7 @@ My-Favourite-Movies-Trailer-Website
 └── README.md
 ```  
 
-- You can run the main program by double click on the *"entertainment_center.py* file, or by running it from python shell or command prompt by following command:
+- You can run the main program by double click on the *"entertainment_centre.py* file, or by running it from python shell or command prompt by following command:
 ```
 python entertainment_center.py
 ```
